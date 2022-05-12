@@ -12,6 +12,23 @@
 
  
 }
+.box{
+    width: 400px;
+    height: 350 px;
+    border-style: solid;
+    margin:auto;
+    padding-top:30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    position: relative;
+    top: 60px;
+    background-color: #fff;
+}
+.welcome
+{
+    text-decoration: dashed;
+  
+}
 #miras{
     background-image: url("arkaplanss.jpg");padding:15px;
 }
@@ -41,4 +58,3 @@ font-style: italic;
 #sehrim{
     background-color:#333;padding:18px;color:#fff; background-image: url("arkaplanss.jpg") ;color:black
 }
-
