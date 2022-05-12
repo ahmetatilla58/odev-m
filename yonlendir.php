@@ -4,7 +4,7 @@ $pass=$_POST['passim'];
 if($email=="b211210045@sakarya.edu.tr"&&$pass=="b211210045")
 {
     echo " HOŞGELDİN B211210045";
-    header("Refresh: 3; url=hakkında.html");
+    header("Refresh: 3; url=eb.html");
 }
 else
 {
