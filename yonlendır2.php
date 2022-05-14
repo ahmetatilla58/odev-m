@@ -28,7 +28,7 @@ echo "Yaşınız:";
 echo $yas."<br>";
 echo "Adres Bilgileriniz:";
 echo $adres."<br>";
-header("Refresh:10 ; url=iletisim.html");
+header("Refresh:5 ; url=iletisim.html");
 
 
 ?>
